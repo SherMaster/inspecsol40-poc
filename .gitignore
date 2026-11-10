@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+resultados/
+PCBData/
+DeepPCB/
+.venv/
